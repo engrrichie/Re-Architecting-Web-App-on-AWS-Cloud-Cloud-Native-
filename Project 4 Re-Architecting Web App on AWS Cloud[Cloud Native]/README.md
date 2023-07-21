@@ -297,6 +297,6 @@ Security policy: TLSv1
 
 ![](Images/App%20running%20from%20CDN.png)
 
-### Step-9: Clean-up
+### Step-13: Clean-up
 
 - Delete all resources created during the project.
